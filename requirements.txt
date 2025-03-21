@@ -4,3 +4,5 @@ nltk
 pygame
 networkx
 pygame
+scikit-learn
+pandas
