@@ -6,3 +6,16 @@ networkx
 pygame
 scikit-learn
 pandas
+beautifulsoup4
+lxml
+selenium
+requests
+webdriver-manager
+yfinance
+seaborn
+textblob
+plotly
+tensorflow
+vaderSentiment
+nltk
+vaderSentiment

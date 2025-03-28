@@ -20,7 +20,7 @@ def load_queen_image(cell_size):
     """
     print("Current Working Directory:", os.getcwd())
     
-    queen_image_path = os.path.join(os.getcwd(), "queen2.png")
+    queen_image_path = os.path.join(os.getcwd(), "queen.png")
     print("Loading queen image from:", queen_image_path)
     
     try:
