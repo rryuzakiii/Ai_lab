@@ -1,7 +1,10 @@
 Ticker,Headline
 AAPL,News
 AAPL,Why Mag 7 is a 'boy band' that needs to 'breakup'
-AAPL,"Magnificent Seven Stocks: Amazon, Apple, Meta, Nvidia, Tesla Sell Off"
+AAPL,Trump is set on tariffing chips. It’s not so simple.
+AAPL,Looking Back on Berkshire Hathaway's Outperformance
+AAPL,Apple Inc. (AAPL): A Top Pick For The Best Retirement Portfolio
+AAPL,"Magnificent Seven Stocks Dive As Amazon, Apple, Meta, Nvidia, Tesla Sell Off"
 AAPL,"Feeling Ripped Off by $1,000 Phones? The Secondhand Market Is Taking Off"
 AAPL,Powerbeats Pro 2 Review: Best Workout Earbuds Still Lag on Audio Quality
 AAPL,Apple Inc. (AAPL)  Stock Under Pressure – UBS Warns of Slowing Services Growth
@@ -12,21 +15,26 @@ AAPL,Expansive offices for Apple are rising in Culver City
 AAPL,3 Subtle Ways Warren Buffett Is Investing in the $15.7 Trillion Artificial Intelligence (AI) Revolution
 AAPL,"ChatGPT's image generator, Nvidia's AI for gamers, and AI chip rules: AI news roundup"
 AAPL,Is Apple (AAPL) the Top Blue Chip AI Stock to Buy According to Billionaire Cliff Asness?
+AAPL,The reason behind Apple’s $1B-a-year bet in streaming
 AAPL,Steve Jobs Warned 34 Years Ago About America Being 'Hollowed Out' By Foreign Manufacturing — A Concern Trump Now Echoes
 AAPL,Options Expert Recommends Bearish AAPL Trade
 AAPL,Jim Cramer: Apple (AAPL) Fumbled Siri – But This Stock Still Wins Long-Term!
 AAPL,New Utah law makes app stores responsible for age verification
-AAPL,"Apple Reshapes Retail Leadership, Taps Vanessa Trigub for Global Stores Role"
-AAPL,Prediction: Apple Will Soar Over the Next 5 Years. Here's 1 Reason Why.
-AAPL,Apple Needs a Boost in China. Alibaba Might Have the Key.
-AAPL,Why this trade expert says the U.S. economy will stall next quarter — and Apple’s investment claims are inflated
 AAPL,Performance Overview
 AAPL,
 MSFT,News
+MSFT,"CoreWeave stock seesaws, ends flat after IPO in AI trade test"
 MSFT,CoreWeave co-founder: We don't understand the AI bubble fears
-MSFT,"Magnificent Seven Stocks: Amazon, Apple, Meta, Nvidia, Tesla Sell Off"
-MSFT,CoreWeave stock whimpers to IPO debut
-MSFT,Nvidia-Backed CoreWeave Downsizes IPO Amid Heightened AI Worries
+MSFT,Bill Gates Says He Feared Microsoft Would Struggle Without Him—Now It's Worth $3 Trillion And Thriving
+MSFT,CoreWeave Stock Ends First Day of Trading Where It Began After Disappointing IPO
+MSFT,CoreWeave Stock Bounces Around After Nvidia-Backed AI Firm Scaled Back IPO
+MSFT,OpenAI’s Latest Funding Round Comes With a $20 Billion Catch
+MSFT,"In CoreWeave’s lackluster IPO, some see signs of a looming AI bust. But CoreWeave’s problems are mostly about CoreWeave"
+MSFT,Magnetar Doesn't Plan To Sell CoreWeave
+MSFT,"Magnificent Seven Stocks Dive As Amazon, Apple, Meta, Nvidia, Tesla Sell Off"
+MSFT,"Wall Street Analysts Adore Amazon, Microsoft, and Nvidia. Here’s Why That’s Problematic."
+MSFT,"Adobe Dips 11% YTD: Should You Buy, Sell or Hold the Stock?"
+MSFT,CoreWeave stock whimpers in IPO debut
 MSFT,Just 3 Stocks Make Up 65% of the Bill & Melinda Gates Foundation Portfolio. Should They Be a Part of Yours?
 MSFT,"Zacks Industry Outlook Highlights Microsoft, Open Text and ACI Worldwide"
 MSFT,Why This 1 Computer and Technology Stock Could Be a Great Addition to Your Portfolio
@@ -35,21 +43,17 @@ MSFT,Cloud AI Today - Boosting Performance Akamai and Fermyon Team Up For Innova
 MSFT,Embold Health using conversational AI to simplify care-seeking process
 MSFT,"Prediction: This Artificial Intelligence (AI) Stock Will Join Nvidia, Meta Platforms, Apple, Microsoft, Amazon, and Alphabet in the Trillion-Dollar Club By The End of The Decade"
 MSFT,Q4 2024 VirTra Inc Earnings Call
-MSFT,"CoreWeave Prices IPO at $40, Well Below Estimates. It’s Another Headwind for AI and Public Markets."
-MSFT,"If You Only Invest in the Vanguard S&P 500 ETF, You're Missing Out on This Stellar Artificial Intelligence (AI) Semiconductor Stock"
-MSFT,CoreWeave Raises $1.5 Billion in Downsized IPO Below Price Target
-MSFT,"Nvidia-Backed CoreWeave Prices Its IPO at $40 Per Share, Below Expectations"
-MSFT,"Is Microsoft Corporation a Long-Term Investment? Breaking Down Its Growth, and Valuation"
-MSFT,Is Microsoft (MSFT) the Top Blue Chip AI Stock to Buy According to Billionaire Cliff Asness?
-MSFT,AMD Stock Downgraded As Chipmaker Lags Nvidia In AI
-MSFT,Nvidia seen stepping in to prop up CoreWeave's struggling IPO
 MSFT,Performance Overview
 MSFT,
 GOOGL,News
 GOOGL,"Alphabet, Wolfspeed, Nikola: Market Minute"
 GOOGL,Why Mag 7 is a 'boy band' that needs to 'breakup'
-GOOGL,Market Chatter: Google Agrees to Pay $100 Million to Settle Advertisers' Lawsuit
+GOOGL,Is Alphabet Inc. (GOOG) The Mega Cap Stock Gaining Bullish Momentum This Week?
+GOOGL,"Why Digital Ad Giants Alphabet, Meta Platforms, and Netflix Plunged Today"
+GOOGL,Alphabet Stock Drops as $100M Settlement Ends Years-Old Ad Pricing Lawsuit
 GOOGL,Reddit’s 50% Plunge Fails to Entice Dip Buyers as Growth Slows
+GOOGL,"Adobe Dips 11% YTD: Should You Buy, Sell or Hold the Stock?"
+GOOGL,Market Chatter: Google Agrees to Pay $100 Million to Settle Advertisers' Lawsuit
 GOOGL,Google to pay $100 million to settle advertisers' class action
 GOOGL,Alphabet Inc. (GOOGL) Self-Driving Unit Waymo Sets Sights on D.C. – Is This the Next Growth Driver?
 GOOGL,Cloud AI Today - Boosting Performance Akamai and Fermyon Team Up For Innovation
@@ -62,29 +66,164 @@ GOOGL,The Next Phase of AI—and 22 Favorite Stocks—From Our Tech Roundtable E
 GOOGL,Is Alphabet (GOOGL) the Top Blue Chip AI Stock to Buy According to Billionaire Cliff Asness?
 GOOGL,Alphabet (GOOGL) Falls More Steeply Than Broader Market: What Investors Need to Know
 GOOGL,Alphabet Inc. (GOOG) Falls More Steeply Than Broader Market: What Investors Need to Know
-GOOGL,M&A Watch: Buy Alphabet Stock Amid Plans to Acquire Cybersecurity Startup WIZ?
-GOOGL,NBIS Stock Plunges 25% in a Month: Is it Time to Book Loss?
-GOOGL,"Alphabet Inc. (GOOGL) Boosts Gmail With AI-Driven Search—Faster, Smarter Results Coming to All Users"
-GOOGL,Is IonQ a Buy?
 GOOGL,Performance Overview
 GOOGL,
 ^GSPC,News
-^GSPC,"Small caps headed for 4th straight loss, tech sector leads down"
+^GSPC,"Stock market today: Dow drops 700 points, S&P 500, Nasdaq sink as Wall Street reels from tariff, inflation fears"
+^GSPC,"PCE, the Fed's preferred inflation gauge, shows prices increased more than expected in February"
 ^GSPC,Stocks are stuck in a tariff tug-of-war: Morning Brief
-^GSPC,Stocks close lower as Trump's tariff barrage continues
-^GSPC,Stock Slide Deepens on Economic Woes as Bonds Gain: Markets Wrap
-^GSPC,"Market Rout Starts With Big Tech as Tariff, Inflation Fears Hit"
-^GSPC,Stocks Tank as Inflation and Tariffs Spark Chaos--Is the Market Headed for a Meltdown?
-^GSPC,UBS joins Wall Street firms in cutting S&P 500's annual target to below 6500
-^GSPC,Utilities Are Leading the S&P 500. Wall Street Is Pouring Into Water Stocks.
-^GSPC,The Stock Market Is on Track for Another Losing Week
-^GSPC,"Inflation to the left, Trump to the right — what's the Fed to do?"
-^GSPC,"Stocks to watch next week: BlackBerry, Guess, Travis Perkins, Raspberry Pi and SSE"
-^GSPC,The Dow Keeps Falling. The Latest Data Stink Like Stagflation.
-^GSPC,Is Tractor Supply Company (TSCO) the Best S&P 500 Stock to Buy for Dividend Growth?
-^GSPC,Is Morgan Stanley (MS) the Best S&P 500 Stock to Buy for Dividend Growth?
-^GSPC,"Is Lowe’s Companies, Inc. (LOW) the Best S&P 500 Stock to Buy for Dividend Growth?"
-^GSPC,Is The Kroger Co. (KR) the Best S&P 500 Stock to Buy for Dividend Growth?
-^GSPC,"Is Northrim BanCorp, Inc. (NRIM) the Best S&P 500 Stock to Buy for Dividend Growth?"
-^GSPC,Is The Hershey Company (HSY) the Best S&P 500 Stock to Buy for Dividend Growth?
-^GSPC,"Is Automatic Data Processing, Inc. (ADP) the Best S&P 500 Stock to Buy for Dividend Growth?"
+^GSPC,Is Alphabet Inc. (GOOG) The Mega Cap Stock Gaining Bullish Momentum This Week?
+^GSPC,"Is Salesforce, Inc. (CRM) The Mega Cap Stock Gaining Bullish Momentum This Week?"
+^GSPC,Is Oracle Corporation (ORCL) The Mega Cap Stock Gaining Bullish Momentum This Week?
+^GSPC,Is Meta Platforms (META) The Mega Cap Stock Gaining Bullish Momentum This Week?
+^GSPC,Is NVIDIA (NVDA) The Mega Cap Stock Gaining Bullish Momentum This Week?
+^GSPC,Is Tesla (TSLA) The Mega Cap Stock Gaining Bullish Momentum This Week?
+^GSPC,Zoetis (ZTS) Stock Moves -1.16%: What You Should Know
+^GSPC,Dynatrace (DT) Stock Moves -1.22%: What You Should Know
+^GSPC,Coterra Energy (CTRA) Ascends While Market Falls: Some Facts to Note
+^GSPC,Adecoagro (AGRO) Stock Moves -0.35%: What You Should Know
+^GSPC,"Array Technologies, Inc. (ARRY) Stock Moves -0.59%: What You Should Know"
+^GSPC,Why the Market Dipped But Sunoco LP (SUN) Gained Today
+^GSPC,"Oscar Health, Inc. (OSCR) Stock Moves -1.34%: What You Should Know"
+^GSPC,"BigBear.ai Holdings, Inc. (BBAI) Stock Moves -0.65%: What You Should Know"
+^GSPC,Kraft Heinz (KHC) Increases Despite Market Slip: Here's What You Need to Know
+^GSPC,Hasbro (HAS) Stock Moves -1.29%: What You Should Know
+^GSPC,Archer Daniels Midland (ADM) Stock Moves -0.85%: What You Should Know
+NVDA,News
+NVDA,"CoreWeave stock seesaws, ends flat after IPO in AI trade test"
+NVDA,CoreWeave Misfire Extends IPO Malaise Instead of Ending It
+NVDA,Is NVIDIA (NVDA) The Mega Cap Stock Gaining Bullish Momentum This Week?
+NVDA,3 AI Giants Well-Positioned to Bounce Back Stronger After The Nasdaq Correction
+NVDA,1 No-Brainer Artificial Intelligence (AI) Stock to Buy Before It Skyrockets
+NVDA,CoreWeave Stock Ends First Day of Trading Where It Began After Disappointing IPO
+NVDA,CoreWeave Stock Bounces Around After Nvidia-Backed AI Firm Scaled Back IPO
+NVDA,"Tesla, Nvidia lose ground as markets take a tumble on bad economic news"
+NVDA,"These Stocks Moved the Most Today: Tesla, AppLovin, Lululemon, Nvidia, CoreWeave, Wolfspeed, and More"
+NVDA,"Stock Market Today: Dow Jones, S&P 500 And Nasdaq Sell Off; Nvidia-Backed CoreWeave Debuts (Live Coverage)"
+NVDA,CoreWeave Whipsaws After Heavily Downsized $1.5 Billion IPO
+NVDA,"In CoreWeave’s lackluster IPO, some see signs of a looming AI bust. But CoreWeave’s problems are mostly about CoreWeave"
+NVDA,Is IONQ Stock the Next NVIDIA and Worth Buying Now?
+NVDA,"Magnificent Seven Stocks Dive As Amazon, Apple, Meta, Nvidia, Tesla Sell Off"
+NVDA,Report: Nvidia's H20 Chip Faces Supply Crunch in China Amid Soaring Demand
+NVDA,Nvidia Stock Falls. It Has Problems at Home and Abroad.
+NVDA,"Nvidia's Reported Lepton AI Buyout A 'Huge Red Flag,' Says Short Seller Jim Chanos, Warns Of Inventory Risk"
+NVDA,CoreWeave Stock Finishes First Trading Session at IPO Price
+NVDA,Brave Eagle CIO Says Nvidia Valuation Offers Opportunity After Recent Decline
+NVDA,"Wall Street Analysts Adore Amazon, Microsoft, and Nvidia. Here’s Why That’s Problematic."
+NVDA,Performance Overview
+NVDA,
+TSLA,News
+TSLA,"Ferrari upgraded to Overweight, Tesla's price target cut"
+TSLA,Elon Musk says Trump's auto tariffs won't be a problem for Tesla
+TSLA,"Elon Musk's xAI acquires X, creating an $80 billion powerhouse"
+TSLA,Is Tesla (TSLA) The Mega Cap Stock Gaining Bullish Momentum This Week?
+TSLA,Elon Musk Says His xAI Company Has Acquired X
+TSLA,"X Bought by xAI, Musk Tweets"
+TSLA,"Cathie Wood Reaffirms Tesla $2,600 Target Despite 39% Stock Decline"
+TSLA,"Tesla, Nvidia lose ground as markets take a tumble on bad economic news"
+TSLA,RBC Maintains Tesla Price Target Despite Forecasted Delivery Decline in First Quarter
+TSLA,Tesla Readies for Global Protest as Q1 Delivery Concerns Mount
+TSLA,Tesla Shares Slide on Lower Q1 Delivery Outlook Across Key Markets
+TSLA,"These Stocks Moved the Most Today: Tesla, AppLovin, Lululemon, Nvidia, CoreWeave, Wolfspeed, and More"
+TSLA,Is Tesla Stock A Buy Or A Sell As It Appears To Have Bottomed?
+TSLA,"Magnificent Seven Stocks Dive As Amazon, Apple, Meta, Nvidia, Tesla Sell Off"
+TSLA,Ontario Premier Doug Ford Supports Retaliatory Tariffs Amid US Auto Levy: 'Inflict As Much Pain As Possible'
+TSLA,"Tesla Stock Drops, but the Losing Streak Ends"
+TSLA,Tesla shareholders furious with Elon Musk have 2 main options to advocate for change
+TSLA,Tesla (NasdaqGS:TSLA) Surges 16% In A Week Despite Mega-Cap Tech Declines
+TSLA,Why Shares of Tesla Are Falling to End the Week
+TSLA,Elon Musk’s DOGE team says government systems can have Apple Store-like ‘experience’
+TSLA,Performance Overview
+TSLA,
+PLTR,News
+PLTR,Why Palantir (PLTR) Stock Is Falling Today
+PLTR,Palantir Stock Plunges 5%--Valuation and AI Spending Fears Hit Hard
+PLTR,Palantir Technologies Inc. (PLTR) Announces Strategic Partnership With Everfox– Analysts Watching Closely
+PLTR,Goldman Sachs analyst revisits Palantir Technologies stock price target
+PLTR,Prediction: 2 Stocks That Will Be Worth More Than Palantir 1 Year From Now
+PLTR,Palantir Technologies Inc. (PLTR) – Jim Cramer’s Insights on the AI-Driven Defense Giant
+PLTR,Palantir Just Cut Over 60% of Its IT Team--And Got More Efficient
+PLTR,Palantir Cuts IT Headcount by 60% as CIO Pushes Decentralized Tech Model
+PLTR,Palantir Technologies (PLTR) – “Palantir’s a Winner! Jim Cramer Backs PLTR’s Defense Play”
+PLTR,Palantir Stock Slides. What’s Weighing on the Shares.
+PLTR,Is Palantir Technologies (PLTR) the Best AI Stock to Invest in According to Reddit?
+PLTR,"The Zacks Analyst Blog Highlights NVIDIA, Palantir, Microsoft, Alphabet and Intel"
+PLTR,Is Palantir Technologies Stock a Buy Now?
+PLTR,Nasdaq Post-Correction: My Top 3 AI Stocks to Buy Before They Soar
+PLTR,Why Palantir (PLTR) Shares Are Plunging Today
+PLTR,"Palantir, MongoDB Defy Software Slowdown With Strong Q4 Beats"
+PLTR,"Which AI Stock, NVIDIA or Palantir, Has More Upside and Is a Buy?"
+PLTR,Why a Top Technical Strategist Is Bullish on Palantir (PLTR) Stock
+PLTR,Why Palantir Technologies Inc. (PLTR) is a Top Stock for the Long-Term
+PLTR,Is Palantir Technologies Inc. (PLTR) the High-Valuation Stock to Buy According to Billionaires?
+PLTR,Performance Overview
+PLTR,
+LCID,News
+LCID,Why Lucid may be more insulated from tariffs than rivals
+LCID,Lucid Group Inc. (LCID) Strengthens AI Strategy Amid Leadership Shift
+LCID,Q4 Earnings Highs And Lows: Tesla (NASDAQ:TSLA) Vs The Rest Of The Automobile Manufacturing Stocks
+LCID,Lucid Group (NasdaqGS:LCID) Jumps 14% In A Week As Q4 Results Show Increased Sales
+LCID,"Is Lucid Group, Inc. (LCID) The Best Battery Stock to Buy According to Billionaires?"
+LCID,Why Lucid Group Inc. (LCID) Went Up Last Week?
+LCID,Think It's Too Late to Buy Lucid Group? Here's the Biggest Reason Why There's Still Time.
+LCID,"EV Stocks Soared This Week, but Tesla Lags Competitors"
+LCID,"Lucid Shares Rise After Morgan Stanley Upgrade, But Long-Term Challenges Persist"
+LCID,Is Lucid Group Stock a Buy Now?
+LCID,"Lucid Group (LCID) Upgraded by Morgan Stanley, Citing AI and Strategic Alliances"
+LCID,Lucid Group (NasdaqGS:LCID) Sees 13% Stock Move During CEO Transition
+LCID,Lucid Doubling Production Isn't Enough: Why the EV Maker's Financial Forecast Signals Risks Through 2026
+LCID,"Lucid (LCID): Buy, Sell, or Hold Post Q4 Earnings?"
+LCID,Why Lucid Group Inc. (LCID) Soared On Tuesday?
+LCID,"If You'd Invested $1,000 in Lucid Stock 4 Years Ago, Here's How Much You'd Have Today"
+LCID,Lucid Stock Is Rising on an Upgrade. Why It Isn’t a Buy Yet.
+LCID,Lucid Stock Explodes 11.5%--But Here's Why It Might Crash Again
+LCID,Lucid Group (LCID): The Best Penny Stock to Buy According to Billionaires
+LCID,"Lucid (LCID) Stock Trades Up, Here Is Why"
+LCID,Performance Overview
+LCID,
+AAL,News
+AAL,Update: UK CMA Weighs Airline Commitments to Address Transatlantic Competition Concerns
+AAL,UK CMA Weighs Airline Commitments to Address Transatlantic Competition Concerns
+AAL,Travel and Vacation Providers Stocks Q4 Teardown: Delta Air Lines (NYSE:DAL) Vs The Rest
+AAL,American Airlines (AAL) Stock Moves -0.61%: What You Should Know
+AAL,Airline Stocks Pare Losses; London’s Heathrow to Resume Flights
+AAL,London's Heathrow Airport reopens after fire causes outage
+AAL,"Fire closes London's Heathrow Airport, disrupting global travel"
+AAL,"Heathrow Airport shuts down after fire, traffic snarled"
+AAL,American Airlines (AAL) Dips More Than Broader Market: What You Should Know
+AAL,American Airlines Group Inc. (NASDAQ:AAL): Among the Best NASDAQ Stocks with the Lowest P/E Ratios
+AAL,American Airlines Stock Down 24.6% in a month: More Pain Ahead?
+AAL,Q4 Earnings Outperformers: Royal Caribbean (NYSE:RCL) And The Rest Of The Travel and Vacation Providers Stocks
+AAL,"Down 35% in 2025, Is American Airlines (AAL) a Bargain Basement Steal?"
+AAL,Travel and Vacation Providers Stocks Q4 Results: Benchmarking American Airlines (NASDAQ:AAL)
+AAL,"Analyst reboots Delta, American, Alaska Air price targets on uncertainty"
+AAL,"American Airlines (AAL) – Jim Cramer: ‘Airline Stocks Have Been Crushed, But It’s Not That Horrible’"
+AAL,"UATP Announces Launch of Latest Issuer, TreviPay"
+AAL,3 Reasons to Sell AAL and 1 Stock to Buy Instead
+AAL,Is American Airlines Group Inc. (AAL) the Best Nasdaq Stock Under $20 to Buy Now?
+AAL,"HRS, Leading Global Corporate Hotel and Meeting Management Platform, Joins UATP Network"
+AAL,Performance Overview
+AAL,
+SOFI,News
+SOFI,Time to Buy the Dip on SoFi Stock?
+SOFI,Why SoFi Technologies Inc. (SOFI) Went Down On Thursday?
+SOFI,Is SoFi Technologies (SOFI) the Best AI Stock to Invest in According to Reddit?
+SOFI,"Here is What to Know Beyond Why SoFi Technologies, Inc. (SOFI) is a Trending Stock"
+SOFI,Should You Buy SoFi While It's Below $15?
+SOFI,SoFi Named Presenting Partner of the Country Music Association’s CMA Fest
+SOFI,SYF vs. SOFI: Which Stock Is the Better Value Option?
+SOFI,SoFi Technologies (NasdaqGS:SOFI) Secures US$5B Deal with Blue Owl Capital Amid 11% Stock Surge Over Last Week
+SOFI,"3 Evergreen Financial Stocks to Buy With $3,000 and Hold Forever"
+SOFI,SoFi Technologies Insiders Sell Over $1 Million in Stock
+SOFI,This Week In Digital Payment - FinTech Innovations Shaping Future Financial Services
+SOFI,Jim Cramer on SoFi Technologies (SOFI): ‘Do Not Panic – The Company’s in Good Hands’
+SOFI,This Magnificent Growth Stock Is Down 51%. Buy It Before It Sets a New All-Time High
+SOFI,"SoFi Technologies, Inc. (SOFI): A Bull Case Theory"
+SOFI,"SoFi Technologies, Inc. (SOFI) Suffers a Larger Drop Than the General Market: Key Insights"
+SOFI,SoFi Stock Drops 23% in a Month: Buy or Wait for Further Correction?
+SOFI,Is SoFi Select 500 ETF (SFY) a Strong ETF Right Now?
+SOFI,SoFi Technologies (SOFI): Among the Best Fintech Stocks to Buy According to Billionaires
+SOFI,SoFi Technologies (NasdaqGS:SOFI) Up 10% As It Seals US$5 Billion Deal With Blue Owl Capital
+SOFI,"Veteran trader makes bold move on Palantir, Rocket Lab and SoFi"
+SOFI,Performance Overview
+SOFI,
